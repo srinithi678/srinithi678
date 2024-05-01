@@ -2,6 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm Srinithi Ashok</h1>
 <h3 align="center">Doing my pre final year in Kongu Engineering College in Artificial Intelligence and Data science student and fresher with a passion for technology</h3>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
+  
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinithi678&label=Profile%20views&color=0e75b6&style=flat" alt="srinithi678" /> </p>
 
@@ -28,7 +36,7 @@
 <br><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,py,js" />
+    <img src="https://skillicons.dev/icons?i=java,py,js" />
   </a>
 </p>
 - Frontend
@@ -49,16 +57,10 @@
 <br><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch,pandas,scikit-learn" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch" />
   </a>
-</p>
--Game Engines
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=Unity" />
-  </a>
-    <img src="https://github.com/marclelijveld/Unity-Icons/raw/main/SVG/Unity.svg" height='45px' width='45px'/>
- 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg" height='45px' width='45px'/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height='45px' width='45px'/>
 </p>
 - Tools
 <br><br>
@@ -68,12 +70,17 @@
   </a>
     <img src="https://github.com/marclelijveld/Power-BI-Icons/raw/main/SVG/Power-BI.svg" height='45px' width='45px'/> 
 </p>
+-Game Engine
+<p align="left">
+  <a href="https://skillicons.dev">
+  </a>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" height='45px' width='45px'/>
+</p>
 
 
+<h3 align="left">Activity:</h3>
 
+![Sri's Graph](https://github-readme-activity-graph.vercel.app/graph?username=srinithi678&custom_title=Sri's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinithi678&show_icons=true&locale=en&layout=compact" alt="srinithi678" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srinithi678&show_icons=true&locale=en" alt="srinithi678" /></p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
