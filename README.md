@@ -57,7 +57,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=Unity" />
   </a>
-    <img src="https://github.com/marclelijveld/Power-BI-Icons/raw/main/SVG/Power-BI.svg" height='45px' width='45px'/>
+    <img src="https://github.com/marclelijveld/Unity-Icons/raw/main/SVG/Unity.svg" height='45px' width='45px'/>
  
 </p>
 - Tools
