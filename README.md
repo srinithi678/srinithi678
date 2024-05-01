@@ -78,9 +78,15 @@
 </p>
 
 
+
 <h3 align="left">Activity:</h3>
 
 ![Sri's Graph](https://github-readme-activity-graph.vercel.app/graph?username=srinithi678&custom_title=Sri's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinithi678&show_icons=true&locale=en&layout=compact" alt="srinithi678" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srinithi678&show_icons=true&locale=en" alt="srinithi678" /></p>
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Srinithi_52?theme=light&font=Marcellus)](https://leetcode.com/u/Srinithi_52/)
