@@ -52,15 +52,23 @@
     <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch,pandas,scikit-learn" />
   </a>
 </p>
-- Tools
-<br><br>
+-Game Engines
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postman,figma,powerBi,Tableau" />
+    <img src="https://skillicons.dev/icons?i=Unity" />
   </a>
     <img src="https://github.com/marclelijveld/Power-BI-Icons/raw/main/SVG/Power-BI.svg" height='45px' width='45px'/>
  
 </p>
+- Tools
+<br><br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,postman,figma" />
+  </a>
+    <img src="https://github.com/marclelijveld/Power-BI-Icons/raw/main/SVG/Power-BI.svg" height='45px' width='45px'/> 
+</p>
+
 
 
 
