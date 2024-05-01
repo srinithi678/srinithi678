@@ -28,14 +28,14 @@
 <br><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,py" />
+    <img src="https://skillicons.dev/icons?i=c,java,py,js" />
   </a>
 </p>
 - Frontend
 <br><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
   </a>
 </p>
 - Backend
@@ -49,14 +49,14 @@
 <br><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch,pandas,scikit-learn" />
   </a>
 </p>
 - Tools
 <br><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=git,postman,figma,powerBi,Tableau" />
   </a>
     <img src="https://github.com/marclelijveld/Power-BI-Icons/raw/main/SVG/Power-BI.svg" height='45px' width='45px'/>
  
