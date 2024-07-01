@@ -4,10 +4,10 @@
 <h3 align="center">Doing my pre final year in Kongu Engineering College in Artificial Intelligence and Data science student and fresher with a passion for technology</h3>
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
   
 </div>
 
@@ -66,7 +66,7 @@
 <br><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=git,figma" />
   </a>
     <img src="https://github.com/marclelijveld/Power-BI-Icons/raw/main/SVG/Power-BI.svg" height='45px' width='45px'/> 
 </p>
@@ -86,6 +86,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinithi678&show_icons=true&locale=en&layout=compact" alt="srinithi678" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srinithi678&show_icons=true&locale=en" alt="srinithi678" /></p>
 
