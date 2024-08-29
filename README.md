@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Srinithi Ashok</h1>
-<h3 align="center">Doing my pre final year in Kongu Engineering College in Artificial Intelligence and Data science student and fresher with a passion for technology</h3>
+<h3 align="center">Doing my final year in Kongu Engineering College in Artificial Intelligence and Data science student and fresher with a passion for technology</h3>
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="60" height="60" />
